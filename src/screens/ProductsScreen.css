@@ -1,0 +1,18 @@
+.product-card {
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .product-card:hover {
+    transform: scale(1.05);
+  }
+  
+  .add-to-cart-btn {
+    transition: all 0.3s ease-in-out;
+  }
+  
+  .add-to-cart-btn:hover {
+    background-color: #ff5733;
+    color: white;
+    transform: scale(1.1);
+  }
+  
